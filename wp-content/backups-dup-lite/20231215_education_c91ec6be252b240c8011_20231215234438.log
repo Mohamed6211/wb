@@ -1,0 +1,73 @@
+********************************************************************************
+DUPLICATOR-LITE PACKAGE-LOG: December 15, 2023 11:45 pm
+NOTICE: Do NOT post to public sites or forums 
+********************************************************************************
+VERSION:	1.5.7.1
+WORDPRESS:	6.4.2
+PHP INFO:	8.1.12 | SAPI: apache2handler
+SERVER:		Apache/2.4.54 (Win64) OpenSSL/1.1.1p PHP/8.1.12 
+PHP TIME LIMIT: (0) no time limit imposed 
+PHP MAX MEMORY: 4294967296 (512M default) 
+MEMORY STACK: 120MB
+
+********************************************************************************
+DATABASE:
+********************************************************************************
+BUILD MODE:   MYSQLDUMP
+MYSQLTIMEOUT: 5000
+MYSQLDUMP:    Is Supported
+SQL CREATED: 20231215_education_c91ec6be252b240c8011_20231215234438_database.sql
+SQL FILE SIZE: 6.48MB (6790470)
+SQL FILE TIME: 2023-12-15 23:45:40
+SQL RUNTIME: 16.48 sec.
+
+********************************************************************************
+ARCHIVE (ZIP):
+********************************************************************************
+ARCHIVE DIR:  C:/xampp/htdocs/wb
+ARCHIVE FILE: 20231215_education_c91ec6be252b240c8011_20231215234438_archive.zip
+FILTERS: *OFF*
+DIRS:
+	not set
+FILES:
+	not set
+EXTS:  not set
+----------------------------------------
+COMPRESSING
+SIZE:	323.68MB
+STATS:	Dirs 4,756 | Files 25,770
+SQL ADDED: 20231215_education_c91ec6be252b240c8011_20231215234438_database.sql
+ZipArchive Object
+(
+    [lastId] => 30525
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 30526
+    [filename] => C:\xampp\htdocs\wb\wp-content\backups-dup-lite\tmp\20231215_education_c91ec6be252b240c8011_20231215234438_archive.zip
+    [comment] => 
+)
+
+FILE ADDED TO ZIP: 30525
+COMPRESSION RESULT: '1'
+COMPRESSED SIZE: 132.62MB
+ARCHIVE RUNTIME: 323.40 sec.
+MEMORY STACK: 130MB
+building installer
+ARCHIVE CONSISTENCY TEST: PASS
+
+********************************************************************************
+INTEGRITY CHECKS:
+********************************************************************************
+SQL FILE: 6.48MB
+INSTALLER FILE: 73.48KB
+ARCHIVE FILE: 134.91MB 
+EXPECTED FILE/DIRECTORY COUNT: 30,526
+ACTUAL FILE/DIRECTORY COUNT: 30,525
+ARCHIVE CONSISTENCY TEST: Pass
+
+********************************************************************************
+RECORD ID:[1]
+TOTAL PROCESS RUNTIME: 343.92 sec.
+PEAK PHP MEMORY USED: 136MB
+DONE PROCESSING => 20231215_education December 15, 2023 11:51 pm
+

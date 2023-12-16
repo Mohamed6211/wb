@@ -1,0 +1,126 @@
+# Copyright (C) 2016 WP Spatial Capabilities Check
+# This file is distributed under the same license as the WP Spatial Capabilities Check package.
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Spatial Capabilities Check 0.0.1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/wp-spatial-"
+"capabilities-check\n"
+"POT-Creation-Date: 2016-06-07 22:18:16+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2016-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#. #-#-#-#-#  messages.pot (WP Spatial Capabilities Check 0.0.1)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: spatial-layout.php:59
+msgid "WP Spatial Capabilities Check"
+msgstr ""
+
+#: spatial-layout.php:63
+msgid ""
+"WordPress runs on MySQL and MariaDB so it makes sense that the spatial "
+"capabilites available depend on what the underlying database provides."
+msgstr ""
+
+#: spatial-layout.php:67
+msgid ""
+"Initial spatial support arrived in MySQL 5.4.2, and is in all versions of "
+"MariaDB. Until MySQL 5.6.1 and MariaDB 5.3.3 most spatial operators worked "
+"on the bounding box instead of on the actual geometry. For details on why "
+"this was a huge limitation, see %1$sthis blog post from Percona.com%2$s."
+msgstr ""
+
+#: spatial-layout.php:70
+msgid "Resources"
+msgstr ""
+
+#: spatial-layout.php:73
+msgid ""
+"As you add functionality to your WordPress install, the following resources "
+"may be useful to you:"
+msgstr ""
+
+#: spatial-layout.php:77
+msgid "WherePress.com - GIS for WordPress and MySQL"
+msgstr ""
+
+#: spatial-layout.php:78
+msgid "MySQL and MariaDB Spatial Support Matrix"
+msgstr ""
+
+#: spatial-layout.php:79
+msgid "Spatial function reference for MySQL 5.4"
+msgstr ""
+
+#: spatial-layout.php:80
+msgid "Spatial function reference for MySQL 5.5"
+msgstr ""
+
+#: spatial-layout.php:81
+msgid "Spatial function reference for MySQL 5.6"
+msgstr ""
+
+#: spatial-layout.php:82
+msgid "Spatial function reference for MySQL 5.7"
+msgstr ""
+
+#: spatial-layout.php:83
+msgid "Spatial function reference for MariaDB"
+msgstr ""
+
+#: spatial-layout.php:90
+msgid "Your database version is %1$s."
+msgstr ""
+
+#: spatial-layout.php:95
+msgid ""
+"The following table was created by querying your current database connection."
+msgstr ""
+
+#: spatial-layout.php:103
+msgid "The capabilities table could not be generated."
+msgstr ""
+
+#: wp-spatial-capabilities-check.php:38
+msgid "Spatial Capabilites"
+msgstr ""
+
+#: wp-spatial-capabilities-check.php:213
+msgid "Function Name"
+msgstr ""
+
+#: wp-spatial-capabilities-check.php:213
+msgid "Function Exists?"
+msgstr ""
+
+#: wp-spatial-capabilities-check.php:221
+msgid "Yes"
+msgstr ""
+
+#: wp-spatial-capabilities-check.php:223
+msgid "No"
+msgstr ""
+
+#: wp-spatial-capabilities-check.php:251
+msgid "Check Now"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://github.com/cimburadotcom/wp-spatial-capabilities-check"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Check what spatial functions your version of MySQL or MariaDB has available."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Michael Moore"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://cimbura.com"
+msgstr ""
